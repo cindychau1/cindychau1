@@ -3,6 +3,7 @@
 I am a full-stack engineer from Boston, MA. I'm currently working on Spyglass, a open-source Kubernetes monitoring tool. 
 
 Connect with me: 
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cindychau11/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cindychau11@gmail.com)
 
