@@ -1,6 +1,6 @@
 ### Hi there, I'm Cindy Chau 👋
 
-I am a full-stack engineer from Boston, MA. I'm currently working on Spyglass, a open-source Kubernetes monitoring tool. 
+I am a full-stack engineer from Boston, MA. I'm currently working on Spyglass, a open-source Kubernetes monitoring tool. In my free time, I love traveling and playing board games. 
 
 Connect with me: 
 
