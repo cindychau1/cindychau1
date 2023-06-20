@@ -1,6 +1,6 @@
 ### Hi there, I'm Cindy Chau 👋
 
-I am a full-stack engineer from Boston, MA. Most recently, I have been working on Spyglass, a open-source k8s monitoring tool. In my free time, I love traveling and playing board games. 
+I am a full-stack engineer from Boston, MA. In my free time, I love traveling and playing board games. 
 
 Connect with me: 
 
